@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="com.mindtree.utility.ListenerClass"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.mindtree.runner.TC_signup_002"/>
+      <class name="com.mindtree.runner.TC_signup_003"/>
+      <class name="com.mindtree.runner.TC_verifytitle_001"/>
+      <class name="com.mindtree.runner.TC_logout_013"/>
+      <class name="com.mindtree.runner.TC_login_007"/>
+      <class name="com.mindtree.runner.TC_stores_032"/>
+      <class name="com.mindtree.runner.TC_filters_036"/>
+      <class name="com.mindtree.runner.TC_search_016"/>
+      <class name="com.mindtree.runner.TC_wishlist_027"/>
+      <class name="com.mindtree.runner.TC_trackorder_024"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9196" started-at="2022-05-23T18:43:03 IST" finished-at="2022-05-23T18:43:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9196" started-at="2022-05-23T18:43:03 IST" finished-at="2022-05-23T18:43:13 IST">
+      <class name="com.mindtree.runner.TC_filters_036">
+        <test-method status="PASS" signature="logConfig()[pri:0, instance:com.mindtree.runner.TC_filters_036@1060b431]" name="logConfig" is-config="true" duration-ms="308" started-at="2022-05-23T18:43:03 IST" finished-at="2022-05-23T18:43:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logConfig -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mindtree.runner.TC_filters_036@1060b431]" name="setup" is-config="true" duration-ms="4197" started-at="2022-05-23T18:43:03 IST" finished-at="2022-05-23T18:43:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateCategory()[pri:0, instance:com.mindtree.runner.TC_filters_036@1060b431]" name="validateCategory" duration-ms="4277" started-at="2022-05-23T18:43:08 IST" finished-at="2022-05-23T18:43:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCategory -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.mindtree.runner.TC_filters_036@1060b431]" name="teardown" is-config="true" duration-ms="679" started-at="2022-05-23T18:43:12 IST" finished-at="2022-05-23T18:43:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.mindtree.runner.TC_filters_036@1060b431]" name="afterSuite" is-config="true" duration-ms="3" started-at="2022-05-23T18:43:13 IST" finished-at="2022-05-23T18:43:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.mindtree.runner.TC_filters_036 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
